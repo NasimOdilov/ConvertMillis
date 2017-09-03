@@ -1,5 +1,7 @@
 /**
- * Chapter 6 Exercise 25:
+        *      @author Nasim Odilov
+        *      Assignment 1
+        *      Chapter 6 Exercise 25:
         *      (Convert milliseconds to hours, minutes, and seconds) Write a method that converts
         *      milliseconds to hours, minutes, and seconds using the following header:
         *
